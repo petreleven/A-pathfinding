@@ -1,2 +1,0 @@
-/usr/bin/ar qc librlImGuiColors.a CMakeFiles/rlImGuiColors.dir/rlImGui.cpp.o
-/usr/bin/ranlib librlImGuiColors.a
